@@ -2,7 +2,8 @@
 
 An intelligent chatbot designed to help users manage digital wellness concerns through conversational AI. SurakshaBuddy provides practical advice, solutions, and challenges to improve your relationship with technology.
 
-
+# Live Demo
+[Demo](https://suraksha-buddy.vercel.app/)
 
 
 
